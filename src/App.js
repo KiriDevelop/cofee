@@ -1,4 +1,3 @@
-import './App.css';
 import React, { Fragment, Component, Provider } from 'react';
 import Likes from './likes';
 import Title from './title';

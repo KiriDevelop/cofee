@@ -25,7 +25,6 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
       <Provider store={store}>
             <App />
-            <h1>test</h1> 
       </Provider>
   
 );
